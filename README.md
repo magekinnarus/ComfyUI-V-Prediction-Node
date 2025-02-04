@@ -7,7 +7,7 @@ The workflow is simple.
 
 1. Add the "AddParam" node to your ComfyUI workflow.
 
-2. Connect the "AddParam" node to the loader node that loads your model (e.g., the UNetLoader).
+2. Connect the "AddParam" node to the model loader node (e.g., the UNetLoader).
   
 3. Select "epsilon" or "v_prediction" from the dropdown menu.
 
