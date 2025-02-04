@@ -17,11 +17,11 @@ Use GIT:
 
 1. Navigate to the `custom_nodes` folder inside the ComfyUI directory.
 
-  cd ComfyUI/custom_nodes
+    cd ComfyUI/custom_nodes
 
 2. Git-clone this repository
 
-git clone https://github.com/magekinnarus/ComfyUI-V-Prediction-Node.git
+  git clone https://github.com/magekinnarus/ComfyUI-V-Prediction-Node.git
 
 3. Restart ComfyUI after installing, and the node will be available for you to use.
 
