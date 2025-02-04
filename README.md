@@ -7,7 +7,6 @@ The workflow is simple. Search for 'AddPram' node and connect to the node that l
 
 Installation
 Use GIT:
-
 cd ComfyUI/custom_nodes
 git clone [https://github.com/magekinnarus/ComfyUI-V-Prediction-Node]
 Restart ComfyUI after installing!
